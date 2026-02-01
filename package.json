@@ -4,7 +4,7 @@
   "private": true,
 
   "engines": {
-    "node": "16.x"
+    "node": "24.x"
   },
 
   "scripts": {
@@ -17,19 +17,19 @@
     "@openlab/vercel-netlify-cms-github": "1.0.0",
     "front-matter": "4.0.2",
     "js-yaml": "4.0.0",
-    "next": "10.0.6",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
+    "next": "12.3.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "simple-oauth2": "4.2.0"
   },
 
   "devDependencies": {
     "@types/js-yaml": "4.0.0",
-    "@types/node": "16.18.0",
-    "@types/react": "17.0.1",
-    "@types/react-dom": "17.0.0",
+    "@types/node": "24.0.0",
+    "@types/react": "17.0.52",
+    "@types/react-dom": "17.0.19",
     "@types/simple-oauth2": "4.1.0",
-    "ts-node": "9.1.1",
-    "typescript": "4.1.5"
+    "ts-node": "10.9.1",
+    "typescript": "4.8.4"
   }
 }
